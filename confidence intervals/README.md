@@ -299,7 +299,7 @@ It also reinforces the relationship between:
 
 ## 👤 Author
 
-**Your Name**
+**Grace**
 
 📊 Data Analytics | 🐍 Python | 📈 Statistics | 🤖 Google Advanced Data Analytics
 
